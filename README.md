@@ -4,10 +4,11 @@
 
 # <b>My tech stack</b> :
 
-![HTML](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logoColor=red)
-
 <p align="left">  
-<a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html&animation=spin&svgfill=15d8fe">  
+ </a>
+<a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
