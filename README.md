@@ -39,4 +39,4 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=cd6799">
 </a>
 
-### <h2> 📫 How to reach me: 1988isokol@gmail.com </h2>
+### <h2> 📫 How to contact me: 1988isokol@gmail.com </h2>
