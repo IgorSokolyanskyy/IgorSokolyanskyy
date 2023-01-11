@@ -1,6 +1,6 @@
 <!-- @format -->
 
-![Header](https://github.com/IgorSokolyanskyy/IgorSokolyanskyy/blob/main/img/www.jpg)
+![Header](https://github.com/IgorSokolyanskyy/IgorSokolyanskyy/blob/main/img/i%2Cm.jpg)
 
 # <b>My tech stack</b> :
 
