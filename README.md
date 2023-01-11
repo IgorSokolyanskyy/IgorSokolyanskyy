@@ -39,8 +39,5 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=socket.io&svgfill=df5c43">  
 </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=daisy.ui&svgfill=cd6799">
-</a>
 
 ### <h2> 📫 How to contact me: 1988isokol@gmail.com </h2>
