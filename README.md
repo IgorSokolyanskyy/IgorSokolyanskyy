@@ -5,7 +5,7 @@
 # <b>My tech stack</b> :
 
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a>
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
