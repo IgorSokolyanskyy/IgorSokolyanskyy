@@ -4,6 +4,8 @@
 
 # <b>My tech stack</b> :
 
+![HTML](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logoColor=red)
+
 <p align="left">  
 <a>
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
